@@ -51,3 +51,6 @@ that any edits you make are made to the copy stored in
 ``~/pelican-themes/theme-name``. Any changes made to
 files stored in your site's ``output`` directory will be deleted the next
 time you generate your site.
+
+一键克隆所有子模块
+git clone --recursive https://github.com/imeixi/pelican-themes.git
